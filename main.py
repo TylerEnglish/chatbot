@@ -8,9 +8,6 @@ import numpy as np
 import tflearn
 import tensorflow as tf
 from tensorflow.python.framework import ops
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Dense
-classifier = Sequential()
 
 import random
 import json
