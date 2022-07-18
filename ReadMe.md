@@ -5,7 +5,7 @@
 ***I wrote this program to teach myself a little in what NLP learning is. This project has taught me how I can make a Sequencial model on text.***
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/5tmnQp5H3r4)
 
 # Development Environment
 
